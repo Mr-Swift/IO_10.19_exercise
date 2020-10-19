@@ -1,0 +1,6 @@
+java.io.FileNotFoundException: src/exception1.log (No such file or directory)
+java.io.FileInputStream.open0(Native Method)
+java.io.FileInputStream.open(FileInputStream.java:195)
+java.io.FileInputStream.<init>(FileInputStream.java:138)
+com.apple.developer.TurnTo_UTF.turnTo(TurnTo_UTF.java:14)
+com.apple.developer.Test.main(TurnTo_UTF.java:87)
